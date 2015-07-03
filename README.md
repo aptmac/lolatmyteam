@@ -11,7 +11,7 @@ Currently hosted on the Seneca matrix SGE cluster.
 
 Links:
 
-http://matrix.senecac.on.ca/~apmacdonald/lolatmyteam_single.cgi
+http://matrix.senecac.on.ca/~apmacdonald/lolatmyteam.cgi
 http://matrix.senecac.on.ca/~apmacdonald/lolatmyteam_multi.cgi
 
 To test (if you do not play League of Legends, or do not meet the input requirements), use my summoner name: Norifurikake.
